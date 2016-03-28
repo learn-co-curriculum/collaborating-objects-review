@@ -17,7 +17,7 @@
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/iYcQ693LXck?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-[MP4](http://learn-co-videos.s3.amazonaws.com/ruby/Intro.to.OO.ruby.LV.mp4)
+[MP4](http://learn-co-videos.s3.amazonaws.com/ruby/Collaborating.Objects.Review.LV-Live.mp4)
 
 [Code](https://github.com/learn-co-curriculum/collaborating-objects-tdd-sample)
 
