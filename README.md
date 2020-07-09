@@ -1,4 +1,6 @@
-## Objectives:
+# Video: Collaborating Object Review
+
+## Objectives
 
 * Test Driven Development
 * Focusing on Object Interfaces
