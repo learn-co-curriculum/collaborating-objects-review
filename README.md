@@ -22,6 +22,6 @@
 [Code](https://github.com/learn-co-curriculum/collaborating-objects-tdd-sample)
 
 _This video is meant to be a review of Object Relationships in Ruby_
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/collaborating-objects-review'>Collaborating Objects Review</a> on Learn.co and start learning to code for free.</p>
+
 
 This video is meant as optional supplemental material to augment the written curriculum. If you feel you already understand  Object Relationships in Ruby than you are welcome to skip the video and continue forward. Feel free to come back here if you ever want a review.
