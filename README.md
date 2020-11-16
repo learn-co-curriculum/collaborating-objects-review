@@ -1,17 +1,19 @@
+# Video: Collaborating Object Review
+
 ## Objectives:
 
 * Test Driven Development
 * Focusing on Object Interfaces
-* Adding an array collection for a has_many on initialization
-* Adding the has_many collection reader
-* Preventing the direct modification of a has_many collection reader.
-* Building your own has_many push interface (the `add_story` method)
+* Adding an array collection for a `has_many` association on initialization
+* Adding the `has_many` collection reader
+* Preventing the direct modification of a `has_many` collection reader
+* Building your own `has_many` push interface (the `add_story` method)
 * Custom Errors
-* Enforcing Type on the has_many push interface
-* Implementing the belongs_to reader
-* Implementing the belongs to writer
-* Enforcing Type on the belongs_to writer
-* Building a has_many through _bonus_
+* Enforcing Type on the `has_many` push interface
+* Implementing the `belongs_to` reader
+* Implementing the `belongs_to` writer
+* Enforcing Type on the `belongs_to` writer
+* Building a `has_many through` _Bonus_
 
 ## Video
 
